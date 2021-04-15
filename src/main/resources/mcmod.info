@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zadeforgemod",
+  "name": "Zade Forge Mod",
+  "description": "Zade Forge Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Z-c-afk"],
+  "credits": "The Forge and FML guys, for making forge and fml",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
